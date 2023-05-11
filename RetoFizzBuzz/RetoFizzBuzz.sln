@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetoFizzBuzz", "RetoFizzBuzz\RetoFizzBuzz.csproj", "{CA916FE7-015E-4CF7-B740-F85508EAA29B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetoFizz_Buzz", "RetoFizz_Buzz\RetoFizz_Buzz.csproj", "{4939F0F3-91B9-40DC-BD2E-1681FADD6697}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CA916FE7-015E-4CF7-B740-F85508EAA29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CA916FE7-015E-4CF7-B740-F85508EAA29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CA916FE7-015E-4CF7-B740-F85508EAA29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CA916FE7-015E-4CF7-B740-F85508EAA29B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4939F0F3-91B9-40DC-BD2E-1681FADD6697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4939F0F3-91B9-40DC-BD2E-1681FADD6697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4939F0F3-91B9-40DC-BD2E-1681FADD6697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4939F0F3-91B9-40DC-BD2E-1681FADD6697}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

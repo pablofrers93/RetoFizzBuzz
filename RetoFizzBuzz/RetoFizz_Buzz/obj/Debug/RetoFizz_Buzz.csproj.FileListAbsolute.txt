@@ -1,0 +1,8 @@
+C:\Users\pablo\OneDrive\Documentos\Proyectos\RetosProgramacion\RetoFizzBuzz\RetoFizzBuzz\RetoFizz_Buzz\bin\Debug\RetoFizz_Buzz.exe.config
+C:\Users\pablo\OneDrive\Documentos\Proyectos\RetosProgramacion\RetoFizzBuzz\RetoFizzBuzz\RetoFizz_Buzz\bin\Debug\RetoFizz_Buzz.exe
+C:\Users\pablo\OneDrive\Documentos\Proyectos\RetosProgramacion\RetoFizzBuzz\RetoFizzBuzz\RetoFizz_Buzz\bin\Debug\RetoFizz_Buzz.pdb
+C:\Users\pablo\OneDrive\Documentos\Proyectos\RetosProgramacion\RetoFizzBuzz\RetoFizzBuzz\RetoFizz_Buzz\obj\Debug\RetoFizz_Buzz.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Documentos\Proyectos\RetosProgramacion\RetoFizzBuzz\RetoFizzBuzz\RetoFizz_Buzz\obj\Debug\RetoFizz_Buzz.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\OneDrive\Documentos\Proyectos\RetosProgramacion\RetoFizzBuzz\RetoFizzBuzz\RetoFizz_Buzz\obj\Debug\RetoFizz_Buzz.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Documentos\Proyectos\RetosProgramacion\RetoFizzBuzz\RetoFizzBuzz\RetoFizz_Buzz\obj\Debug\RetoFizz_Buzz.exe
+C:\Users\pablo\OneDrive\Documentos\Proyectos\RetosProgramacion\RetoFizzBuzz\RetoFizzBuzz\RetoFizz_Buzz\obj\Debug\RetoFizz_Buzz.pdb
